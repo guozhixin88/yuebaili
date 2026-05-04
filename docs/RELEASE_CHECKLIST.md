@@ -26,3 +26,4 @@
 - 创建 release
 - 上传 DMG
 - 在 README 中补充下载链接
+- 发布后确认 release 附件文件名显示正常

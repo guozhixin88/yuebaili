@@ -22,4 +22,4 @@
 - 支持选择具体节假日日历
 - 支持用户自定义弹窗宽度和菜单栏格式
 - 增加截图和 Homebrew Cask 发布流程
-
+- 考虑迁移到 Swift Package 或 Xcode project，以便后续多人维护
