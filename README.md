@@ -101,9 +101,3 @@ make uninstall
 ├── PRIVACY.md
 └── LICENSE
 ```
-
-## 开源前待确认
-
-- App 名称和图标还可以继续打磨
-- 如果要面向更多用户分发，建议使用 Apple Developer ID 签名并公证
-- 目前 DMG 是本机 ad-hoc 签名，其他电脑第一次打开可能需要右键选择“打开”

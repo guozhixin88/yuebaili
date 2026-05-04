@@ -17,7 +17,7 @@
 - 确认 App 名称和图标
 - 更新 `CHANGELOG.md`
 - 更新 README 截图
-- 如果面向公开用户分发，使用 Developer ID 签名和 Apple notarization
+- 如需直接分发给普通用户，使用 Developer ID 签名和 Apple notarization
 
 ## GitHub
 
@@ -26,4 +26,3 @@
 - 创建 release
 - 上传 DMG
 - 在 README 中补充下载链接
-
