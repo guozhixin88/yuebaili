@@ -54,7 +54,7 @@ make package
 打包产物：
 
 ```text
-dist/月白历-1.0.0.dmg
+dist/Yuebaili-1.0.0.dmg
 ```
 
 ## 重新生成图标

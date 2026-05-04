@@ -6,7 +6,7 @@ APP_NAME="月白历"
 VERSION="1.0.0"
 DIST_DIR="$ROOT/dist"
 STAGE_DIR="$DIST_DIR/stage"
-DMG="$DIST_DIR/$APP_NAME-$VERSION.dmg"
+DMG="$DIST_DIR/Yuebaili-$VERSION.dmg"
 
 "$ROOT/scripts/build.sh"
 
@@ -24,4 +24,3 @@ hdiutil create \
 
 hdiutil verify "$DMG"
 echo "Packaged $DMG"
-
